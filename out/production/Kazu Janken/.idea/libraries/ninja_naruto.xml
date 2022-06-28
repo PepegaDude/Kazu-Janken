@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ninja_naruto">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ninja_naruto.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
